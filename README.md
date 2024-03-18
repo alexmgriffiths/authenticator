@@ -6,7 +6,7 @@ I created this because I got sick of having to reach for my phone for TOTP codes
 
 # Setup
 
-    git clone https://github.com/alexmgriffiths/mfamanager.git
+    git clone https://github.com/alexmgriffiths/authenticator.git
     cd mfamanager
     npm i
     npm run build
