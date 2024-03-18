@@ -9,6 +9,4 @@ I created this because I got sick of having to reach for my phone for TOTP codes
     npm i
     npm run build
 
-Configure your keys in `App.tsx`
-
 Then go in Firefox, navigate to `about:debugging` and load `build/manifest.json` as a temporary addon.

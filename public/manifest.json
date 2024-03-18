@@ -16,5 +16,5 @@
     "48": "logo48.png",
     "96": "logo96.png"
   },
-  "permissions": ["clipboardWrite"]
+  "permissions": ["clipboardWrite", "storage"]
 }
