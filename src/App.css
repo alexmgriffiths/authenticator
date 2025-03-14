@@ -12,6 +12,15 @@
     color:#0088CC;
 }
 
+.mfamanager-code-row {
+    display: flex;
+    flex-direction: row;
+    font-size:16px;
+    justify-content: space-between;
+    align-items: center;
+    color:#0088CC;
+}
+
 .mfamanager-card {
     display:flex;
     flex-direction: column;
@@ -35,7 +44,7 @@
 .link {
     color: #0088CC;
     font-size:14px;
-    text-decoration:underline;
+    text-decoration:none;
 }
 
 .input {

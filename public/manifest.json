@@ -8,13 +8,13 @@
     "default_popup": "index.html",
     "default_title": "MFA Manager",
     "default_icon": {
-      "48": "logo48.png",
-      "96": "logo96.png"
+      "48": "48.png",
+      "96": "96.png"
     }
   },
   "icons": {
-    "48": "logo48.png",
-    "96": "logo96.png"
+    "48": "48.png",
+    "96": "96.png"
   },
   "permissions": ["clipboardWrite", "storage"]
 }
