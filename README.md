@@ -14,7 +14,7 @@ Then go in Firefox, navigate to `about:debugging` and load `build/manifest.json`
 
 # Git Clone Setup
 
-    git clone https://github.com/alexmgriffiths/mfamanager.git
+    git clone https://github.com/alexmgriffiths/authenticator.git
     cd mfamanager
     npm i
     npm run build
